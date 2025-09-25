@@ -4,7 +4,7 @@ import logging
 from config import (
     CLAIMS_DIR,
     CLAIMS_SCHEMA,
-    TASK_4_RESULT,
+    TASK_4_RESULT
 )
 
 
