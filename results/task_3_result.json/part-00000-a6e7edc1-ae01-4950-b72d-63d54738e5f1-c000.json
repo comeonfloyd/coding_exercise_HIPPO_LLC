@@ -1,0 +1,10 @@
+{"ndc":"00002323401","chains":[{"name":"saint","avg_price":239.2169412974226},{"name":"health","avg_price":11135.9559710093}]}
+{"ndc":"00015066812","chains":[{"name":"saint","avg_price":4482.53660190399},{"name":"doctor","avg_price":6607.153824361458}]}
+{"ndc":"00031074998","chains":[{"name":"health","avg_price":5138.952118155916},{"name":"doctor","avg_price":7205.835830271857}]}
+{"ndc":"00046110481","chains":[{"name":"saint","avg_price":8858.68009621387},{"name":"health","avg_price":10627.113081451971}]}
+{"ndc":"00054027225","chains":[{"name":"doctor","avg_price":17131.798082254027},{"name":"health","avg_price":23761.596849105685}]}
+{"ndc":"00078017705","chains":[{"name":"saint","avg_price":2857.7673941589514},{"name":"doctor","avg_price":17333.25102590416}]}
+{"ndc":"00093752910","chains":[{"name":"saint","avg_price":8568.296992467374},{"name":"health","avg_price":13109.58667737956}]}
+{"ndc":"49884024302","chains":[{"name":"saint","avg_price":2663.0496943984294},{"name":"doctor","avg_price":10691.324077870671}]}
+{"ndc":"55154445200","chains":[{"name":"saint","avg_price":2435.3243139932356},{"name":"health","avg_price":13373.020068112151}]}
+{"ndc":"63323036410","chains":[{"name":"health","avg_price":7632.98564722852},{"name":"doctor","avg_price":18373.56406552748}]}
