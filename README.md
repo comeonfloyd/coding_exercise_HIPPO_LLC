@@ -41,7 +41,7 @@ This repository contains an implementation of the tasks for the Hippo coding cha
 1. **Task 1**
    - Read data stored in JSON files
    ```bash
-   make run_task_1_2.py
+   make run_task_1_2
    ```
 
    ![alt text](images/image_result_1_2.png)

@@ -14,7 +14,7 @@ from config import (
     PHARMACY_DIR,
     CLAIMS_SCHEMA,
     PHARMACIES_SCHEMA,
-    TASK_3_RESULT,
+    TASK_3_RESULT
 )
 
 logger = logging.getLogger("hippo.task3")
