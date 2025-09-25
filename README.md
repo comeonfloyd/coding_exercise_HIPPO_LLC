@@ -64,7 +64,7 @@ This repository contains an implementation of the tasks for the Hippo coding cha
 
    - Sample of `task_3_result.json`
 
-   ![alt text](images/image-4.png)
+   ![alt text](images/image_result_task_3.png)
 
 4. **Task 4**
    - Understand Most common quantity prescribed for a given Drug

@@ -18,7 +18,7 @@ from config import (
     REVERTS_REQUIRED_FIELDS,
     PHARMACY_DIR,
     CLAIMS_DIR,
-    REVERTS_DIR,
+    REVERTS_DIR
 )
 
 

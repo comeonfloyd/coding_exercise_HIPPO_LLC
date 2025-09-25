@@ -58,7 +58,7 @@ def find_best_chains(spark: SparkSession, claims_src: str, pharmacies_src: str, 
     logger.info("Calculating average prices per chain & NDC...")
     avg_prices = (
         enriched.groupBy("ndc", "chain")
-        .agg(F.mean("price").alias("mean_price"))
+        .agg(F.round(F.mean("price"), 2).alias("mean_price"))
     )
 
     logger.info("Ranking chains...")
